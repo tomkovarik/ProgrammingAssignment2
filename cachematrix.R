@@ -1,4 +1,5 @@
 ## MATRIX SOLVING TOOLS
+## Tom Kovarik - for coursera datascience assignment 2
 ## Provides procedures to store a matrix and its inverse, saving
 ## repeated computations for inversion.
 
